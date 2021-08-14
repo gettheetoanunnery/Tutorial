@@ -220,7 +220,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "{{c1::Opportunistic}} pathogens rarely cause disease in individual unless&nbsp;immunocompromised",
+                                "{{c1::Opportunistic}} pathogens rarely cause disease in individual <u>unless</u>&nbsp;<b><i>immunocompromised</i></b>",
                                 "",
                                 "",
                                 "",
@@ -434,6 +434,7 @@
                             "guid": "kq9|eB#hEh",
                             "note_model_uuid": "32152202-fb50-11eb-a45e-54e1ade999ce",
                             "tags": [
+                                "!FLAG:Delete",
                                 "Micro::#Mahon_5::01_Bacterial_cell_structure_phyiology_metabolism_genetics"
                             ]
                         },
@@ -789,13 +790,14 @@
                             "guid": "IH~/tDldi)",
                             "note_model_uuid": "32152202-fb50-11eb-a45e-54e1ade999ce",
                             "tags": [
+                                "!FLAG:Delete",
                                 "Micro::#Mahon_5::01_Bacterial_cell_structure_phyiology_metabolism_genetics"
                             ]
                         },
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Most {{c1::pro}}karyotic plasma membrane lacks {{c2::sterols}}",
+                                "Most {{c1::pro}}karyotic plasma membrane <b><i>lacks</i></b> <u>{{c2::sterols}}</u>",
                                 "<u>except</u> for <i>Mycoplasma spp. </i>(see existing AnKing cards)<div><br>still contains PL and proteins</div><div><br></div><div>hb Ureaplasma? lacks cell walls but do they also have sterols?<br></div>",
                                 "",
                                 "",
@@ -883,7 +885,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "The tetrapeptides attached to NAM residues of peptidoglycans can contain (discussed):<br><br>{{c1::1. L-alanine<br>2. D-glutamate<br>3. Meso-diaminopimelate<br>4. D-alanine}}",
+                                "The tetrapeptides attached to NAM residues of peptidoglycans can contain (discussed):<br><br>\n<div style=\"centerbox\">\n  <div class=\"mnemonics\">\n    {{c1::1. L-alanine<br>\n2. D-glutamate<br>\n3. Meso-diaminopimelate<br>\n4. D-alanine}}<br>\n  </div>\n</div>",
                                 "this may vary among species<br><img src=\"paste-ff612a90905ed2c1c850787fb7ababb03c55e27c.jpg\"><br><img src=\"3-Peptidoglycan-Structure-Analysis.png\" style=\"height: 500px;\"><br><img src=\"1280px-Gram-positive_cellwall-schematic.png\" style=\"height: 500px;\"><br><img src=\"1024px-Mureine.svg.png\" style=\"height: 500px;\"><br><br>",
                                 "",
                                 "",
