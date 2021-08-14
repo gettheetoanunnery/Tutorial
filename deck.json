@@ -523,6 +523,7 @@
                             "guid": "s<(*;R%po1",
                             "note_model_uuid": "32152202-fb50-11eb-a45e-54e1ade999ce",
                             "tags": [
+                                "!FLAG:Delete",
                                 "Micro::#Mahon_5::01_Bacterial_cell_structure_phyiology_metabolism_genetics"
                             ]
                         },
@@ -1172,7 +1173,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Antigens located in a bacteria's <b>{{c2::cell wall}}</b> are called {{c1::somatic antigens}}",
+                                "Antigens located in a bacteria's <b>{{c2::cell wall}}</b> are called <u>{{c1::somatic antigens}}</u>",
                                 "",
                                 "",
                                 "",
@@ -1306,7 +1307,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Cell appendages of a bacteria:<br><br>{{c1::Flagella}} - {{c2::motility::function}}<br>{{c1::Conjugation pili}} - {{c2::DNA exchange::function}}<br>{{c1::Fimbriae (normal pili)}} - {{c2::adhesion::function}}",
+                                "Cell appendages of a bacteria:<br><br>\n\n<div style=\"centerbox\">\n  <div class=\"mnemonics\">\n    {{c1::Flagella}} - {{c2::motility::function}}<br>\n{{c1::Conjugation pili}} - {{c2::DNA exchange::function}}<br>\n{{c1::Fimbriae (normal pili)}} - {{c2::adhesion::function}}\n  </div>\n</div>",
                                 "<div>eukaryotes <u>do not</u> have conjugation pili nor fimbriae</div><div><br></div><img src=\"commonfeaturesofallGramnegativebacteria.jpg\" style=\"width: 936px;\">",
                                 "",
                                 "",
@@ -1753,7 +1754,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Are all bacteria inhabiting the human body heterotrophs?<br><br>{{c1::Yes. All.}}",
+                                "Are <b>all</b> bacteria inhabiting the human body <u>heterotrophs</u>?<br><br>{{c1::Yes. All.}}",
                                 "",
                                 "",
                                 "",
@@ -2105,7 +2106,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "What type of bacteria carry out fermentation?<br><br>{{c1::Obligate anaerobes, aerotolerant anaerobes, and facultative anaerobes}}",
+                                "What type of bacteria carry out <u>fermentation</u>?<br><br>{{c1::Obligate anaerobes, aerotolerant anaerobes, and facultative anaerobes}}",
                                 "",
                                 "",
                                 "",
